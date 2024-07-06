@@ -4,5 +4,7 @@
     -leasinh
     -hipotecario
    °consumo
+    -libre desino
+    -libranza
    °vehiculo
 
